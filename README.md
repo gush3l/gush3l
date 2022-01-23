@@ -5,9 +5,7 @@
 
 - 📚 I’m currently learning **Python, Rust and C#.**
 
-- 🙌 I’m looking to collaborate on [swear-words](https://github.com/chucknorris-io/swear-words).
-
-- 📨 How to reach me **Discord: gush3l#6016**
+- 📨 How to reach me **Discord: gush3l#6016 | Discord ID: 327840172437798913**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gush3l&show_icons=true&locale=en" alt="gush3l" /></p>
 
