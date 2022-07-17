@@ -3,7 +3,7 @@
 
 - ⚒️ I’m currently working on **improving my skills**
 
-- 📚 I’m currently learning **Python, Rust and C#.**
+- 📚 I’m currently learning **Java, Lua and JavaScript.**
 
 - 📨 How to reach me **Discord: gush3l#6016 | Discord ID: 327840172437798913**
 
