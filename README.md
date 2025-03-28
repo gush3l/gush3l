@@ -4,5 +4,3 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=gush3l&color=orange"></p>
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=gush3l&show_icons=true&locale=en&theme=transparent" alt="gush3l" /></p>
-
-<p align="center">You can reach out to me via Discord:<br>Discord: gush3l<br>Discord ID: 327840172437798913</p>
